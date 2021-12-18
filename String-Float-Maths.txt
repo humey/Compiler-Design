@@ -1,0 +1,26 @@
+/-- Simple Program
+/-- This SHOULD pass!
+CD21 hello
+
+main
+    x : integer,
+    j : integer,
+    h : integer,
+    z : real,
+    y : integer
+begin
+  
+  z = 2.0;
+
+  y = 2;
+
+  Out << "Hello World" << Line;
+
+  In >> j;
+  In >> h;
+
+  x = j * h;
+
+end 
+
+CD21 hello
