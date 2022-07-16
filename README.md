@@ -8,3 +8,5 @@ Generated tokens from the lexical analysis -> Parser creates an AST and populate
 any invalid syntax IAW the CD21 language specs -> Creates OPcodes for the given stack based machine.
 
 Did not finish the code generation - Code can store variables / strings in both memory and stack, basic math functions +/-* and simple output.
+
+Currently re-writin in rust
