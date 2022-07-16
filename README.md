@@ -9,4 +9,4 @@ any invalid syntax IAW the CD21 language specs -> Creates OPcodes for the given 
 
 Did not finish the code generation - Code can store variables / strings in both memory and stack, basic math functions +/-* and simple output.
 
-Currently re-writin in rust
+Currently re-writing in rust
